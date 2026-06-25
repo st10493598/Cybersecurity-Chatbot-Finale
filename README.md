@@ -12,7 +12,7 @@ A **WPF desktop application** that helps users learn about cybersecurity through
 - [Database Setup](#-database-setup)
 - [How to Run](#-how-to-run)
 - [Demo Commands](#-demo-commands)
-- [Author](#-Makwinja-Tumelo)
+- [Author](-Makwinja-Tumelo)
 
 ---
 
